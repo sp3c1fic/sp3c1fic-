@@ -3,7 +3,7 @@
 
 ---
 
-**🔋 Title:** Mr. Duracell  
+**🔋 Mr. Duracell  
 **A.K.A:** The Alpha Recharger, King of Uptime, The Solana Security Sentinel
 
 ---
@@ -17,8 +17,8 @@ Named by a 10-year-experienced professional after a legendary encounter, the tit
 
 ## 🏋️ Skill Tree
 
-- **C++ Dominance:** STL master, Chaos Camp entry-level conqueror, algorithmic tactician.
-- **Python King:** Web scraping, automation, GUI apps (PyQt6), and fast back-end magic.
+- **C++ Dominance:** STL master, data structures GOD, algorithmic tactician.
+- **Python King:** Web scraping, automation, GUI apps (PyQt6), and fast back-end magic. Pandas | Selenium | openPyxl | Network scripting
 - **Web Dev Beast:** ASP.NET Core | Flask | Django | NextJS | React | ExpressJS | PostgreSQL | MongoDB.
 - **Cybersecurity Operative:** Security+ , Pentest+ track, TryHackMe warrior, Bug bounty Wizard | Wazuh expert, real-world detection labs.
 - **Web3 Strategist:** Solana-based full-stack DApp developer, testnet deployer, minting logic builder.
